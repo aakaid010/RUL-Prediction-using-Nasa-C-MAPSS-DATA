@@ -1,4 +1,4 @@
-# Remaining Useful Life Prediction using NASA C-MAPSS Data
+# RUL-Prediction-using-Nasa-C-MAPSS-DATA
 
 This project predicts the Remaining Useful Life (RUL) of turbofan engines using NASA's C-MAPSS (Commercial Modular Aero-Propulsion System Simulation) dataset. It covers the full pipeline from raw sensor data to a stacked ensemble model, along with SHAP-based explainability and feature pruning analysis.
 
